@@ -23,5 +23,6 @@ public class StaticFieldTest {
     /* 두 필드 값을 1씩 증가시키기 위한 용도의 메소드 */
 
     public void increaseNonStaticCount(){this.nonStaticCount++;}
+
     public void increaseStaticCount(){StaticFieldTest.staticCount++;}
 }
