@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35e77d26-edff-4804-a881-0a12b9aaf452" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/seongjun/section03/wrapper/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/seongjun/section03/wrapper/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/seongjun/section03/wrapper/Application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/seongjun/section04/time/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/seongjun/section04/time/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/seongjun/section04/time/Application3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +168,7 @@
       <updated>1742604903964</updated>
       <workItem from="1742604905110" duration="7065000" />
       <workItem from="1742703964359" duration="1209000" />
-      <workItem from="1742789832677" duration="3319000" />
+      <workItem from="1742789832677" duration="3765000" />
     </task>
     <servers />
   </component>
