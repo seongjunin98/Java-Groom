@@ -1,6 +1,5 @@
-package com.seongjun.javabaisc2;
+package com.seongjun.javabeginner2;
 
-import java.sql.Array;
 import java.util.Arrays;
 
 public class Mission4 {

@@ -1,6 +1,4 @@
-package com.seongjun.javabaisc2;
-
-import java.util.Arrays;
+package com.seongjun.javabeginner2;
 
 public class Mission5 {
 

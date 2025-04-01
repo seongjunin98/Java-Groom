@@ -1,4 +1,4 @@
-package com.seongjun.javabaisc2;
+package com.seongjun.javabeginner2;
 
 public class Mission3 {
 
